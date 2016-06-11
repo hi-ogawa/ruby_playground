@@ -4,8 +4,10 @@
 
 Implementation of:
 
-- 2-opt alogrithm for TSP (Travel Salesman Problem)
 - Prim's algorithm for MST (Minimum Spanning Tree)
+  - [example in wiki](https://github.com/hi-ogawa/ruby_playground/wiki/MST-(Minimum-Spanning-Tree)) 
+- 2-opt alogrithm for TSP (Travel Salesman Problem)
+  - [example in wiki](https://github.com/hi-ogawa/ruby_playground/wiki/TSP-(Travel-Salesman-Problem))
 
 ### Development
 
